@@ -1,0 +1,6 @@
+nodeName: Node4
+port: 8006
+nodeKey: 080112401f6fc3cfe5e355ecfcdbad3bd501dbb127a7a05ff258114b229603dfd2161f51b88dcde3c9b3dcb54ee7513e4bd771743c3e134e84828c070c9b7362cfcb3714
+bootstrappingPeers:
+  - nodeId: 12D3KooWEsNaH5LyoVz8aUKDLhv4CjPQx8ZHoHCAhcSsLL36JeBx
+    nodeAddr: /ip4/0.0.0.0/tcp/8000

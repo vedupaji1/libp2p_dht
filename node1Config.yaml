@@ -1,0 +1,11 @@
+nodeName: Node1
+port: 8000
+nodeKey: 080112401fd68cdc16ffa4fad43e021199c85eb183d2d4c9cbdc26004426e86e703f67214b0fa2c690e260fb058d299972c0d7435fea9f1d4ba7e59ef25e1479de4d4827
+bootstrappingPeers:
+  - nodeId: 12D3KooWF9ZQ44TzKzMzggQxF2dGv556sk5AGaEt9bG18GHWmn4m
+    nodeAddr: /ip4/0.0.0.0/tcp/8002
+    
+  - nodeId: 12D3KooWDfwtfATXE7tFRDHcbTDB12zWmVQpi9TTBKMTVfEcKZkw 
+    nodeAddr: /ip4/0.0.0.0/tcp/8004
+
+ 
